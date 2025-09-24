@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! I'm Fernanda Silvestre 👋
 
-<!--
-**SilvestreFer/SilvestreFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Computational Terminology & Lexicography  
+💻 Exploring AI, Data Science & Machine Learning applied to languages  
+🌍 Based in Portugal
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+- Practicing Python projects with a focus on NLP and data analysis  
+- Building hands-on experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Advanced Python libraries: pandas, numpy  
+- AI & NLP frameworks: PyTorch, Hugging Face, spaCy  
+- Applying ML & AI techniques to language data
+
+## 👯 I’m looking to collaborate on
+- Open-source projects related to NLP, machine learning, or language technologies
+
+## 🤔 I’m looking for help with
+- Complex ML model implementations and optimizing NLP pipelines  
+- Best practices for structuring GitHub repositories and portfolios
+
+## ⚡ Fun fact
+- I love listening mostly to Metal 🤘, practice Aikido 🥋, contortion, and enjoy nature-related sports 🌲
+
+## 🚀 Skills & Tools
+- **Languages:** Python  
+- **Other Tools:** Git, VS Code, Jupyter Notebook  
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvestreFer&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvestreFer&layout=compact&theme=dracula)
