@@ -16,10 +16,6 @@
 ## 👯 I’m looking to collaborate on
 - Open-source projects related to NLP, machine learning, or language technologies
 
-## 🤔 I’m looking for help with
-- Complex ML model implementations and optimizing NLP pipelines  
-- Best practices for structuring GitHub repositories and portfolios
-
 ## ⚡ Fun fact
 - I love listening mostly to Metal 🤘, practice Aikido 🥋, contortion, and enjoy nature-related sports 🌲
 
