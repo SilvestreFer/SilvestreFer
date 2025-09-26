@@ -22,7 +22,3 @@
 ## 🚀 Skills & Tools
 - **Languages:** Python  
 - **Other Tools:** Git, VS Code, Jupyter Notebook  
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvestreFer&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvestreFer&layout=compact&theme=dracula)
